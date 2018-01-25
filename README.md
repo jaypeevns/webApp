@@ -1,2 +1,3 @@
-# webApp
-It is swagger application
+# firstapp
+
+Swagger api [location](./config/swagger.json)
